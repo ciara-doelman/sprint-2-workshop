@@ -1,0 +1,39 @@
+body {
+  background-color: paleturquoise;
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
+}
+
+h1 {
+  font-size: 50pt;
+}
+
+p {
+  font-size: 25pt;
+}
+
+.orange-text {
+
+  color: orange;
+}
+
+.yellow-text {
+
+  color: yellow;
+}
+
+.brown-text {
+
+  color: chocolate;
+}
+
+#name {
+
+  font-size: smaller;
+  color: green;
+}
+
+.pink-text {
+
+  color: pink;
+}
